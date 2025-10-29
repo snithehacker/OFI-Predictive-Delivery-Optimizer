@@ -55,7 +55,7 @@ Version Control           	Git & GitHub
   🚀 **How to Run Locally**
 
   
-1️⃣ change from main branch to revised_code branch 
+1️⃣ change from main branch to revised_code branch. 
 Clone the Repository
 git clone https://github.com/snitehacker/OFI-Predictive-Delivery-Optimizer.git
 cd OFI-Predictive-Delivery-Optimizer
